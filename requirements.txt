@@ -1,0 +1,11 @@
+fastapi==0.101.1
+langchain==0.0.319
+openai==0.27.8
+pydantic==2.2.0
+python-dotenv==1.0.0
+html2text==2020.1.16
+tiktoken==0.4.0
+validators==0.21.2
+uvicorn==0.23.2
+pydantic-settings==2.0.3
+pytest==7.4.2
